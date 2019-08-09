@@ -331,7 +331,8 @@ aim.
 
 We'll write our first interpreter, jlox, in Java. The focus is on *concepts*.
 We'll write the simplest, cleanest code we can to correctly implement the
-semantics of the language. This will get us comfortable with the basic
+semantics of the language. This will get us c
+omfortable with the basic
 techniques and also hone our understanding of exactly how the language is
 supposed to behave.
 
@@ -372,7 +373,7 @@ pulling yourself up by your own bootstraps.
 And, finally, Java is hugely popular. That means there's a good chance you
 already know it, so there's less for you to learn to get going in the book. If
 you aren't that familiar with Java, don't freak out. I try to stick to a fairly
-minimal subset of it. I use the diamond operator from Java 7 to makes things a
+minimal subset of it. I use the diamond operator from Java 7 to make things a
 little more terse, but that's about it as far as "advanced" features go. If you
 know another object-oriented language like C# or C++, you can probably muddle
 through fine.
